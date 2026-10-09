@@ -1,0 +1,17 @@
+{
+    "classes": [
+        "FIRE",
+        "NON_FIRE",
+        "SMOKE"
+    ],
+    "class2idx": {
+        "FIRE": 0,
+        "NON_FIRE": 1,
+        "SMOKE": 2
+    },
+    "idx2class": {
+        "0": "FIRE",
+        "1": "NON_FIRE",
+        "2": "SMOKE"
+    }
+}
